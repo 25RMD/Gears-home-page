@@ -109,7 +109,7 @@ window.addEventListener('mousemove', (e) => {
       g: newColor.g,
       b: newColor.b
     });
-  }https://github.com/25RMD/Gears-home-page.git
+  }
 })
 
 
