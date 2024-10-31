@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Danfo';
+    src: url('/fonts/danfo.woff2') format('woff2'),
+         url('/fonts/danfo.woff') format('woff'),
+         url('/fonts/danfo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+@font-face {
+    font-family: 'Anton';
+    src: url('/fonts/anton.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
